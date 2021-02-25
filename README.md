@@ -41,6 +41,35 @@ TABLAS
 
 ![ERROR](https://github.com/Katherine01-Arevalo/Laboratorio-6/blob/main/img/ERROR.PNG)
 
+PREGUNTAS 
+(1) ¿Cuántas divisiones por cuadro abarca la amplitud pico de la señal de salida?
+3.45
+
+(2) ¿En qué valor está posicionada la perilla VOLTS/DIV?  
+1V
+
+(3) ¿Cuántas divisiones por cuadro abarca un ciclo completo de la señal de salida?
+
+(4) ¿En qué valor está posicionada la perilla TIME/DIV?   	
+0.1ms
+
+(5)  ¿Cuál es la amplitud de voltaje y el periodo de la señal que aparece en la pantalla del osciloscopio?
+
+Amplitud de voltaje:6.85	(V)       Periodo:	0.0004(s)
+
+(6) Determine la frecuencia natural (Hz) y la frecuencia angular (rad/s) de la señal de salida.
+F:2500(Hz) 
+ω:5000π(rad/s)
+
+(7) Con el multímetro digital mida el voltaje de salida en RL:4.6V
+
+(8) Compare el voltaje medido en el punto 5. y el obtenido en el punto 7
+¿Coinciden?	¿Por qué?
+
+Es distinto ya que el valor que mide el voltímetro para corriente alterna  muestra voltaje de 4.6  en rms  Mientras que el voltaje de 6.85 que se muestra en el osciloscopio  genera el valor pico del voltaje en dicha resistencia 
+
+
+
 **7.MANUAL DE USUARIO**
 
 **8.PRERREQUISITOS**
