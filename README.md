@@ -12,15 +12,32 @@ Específicos:
 
 **3.DIAGRAMAS**
 
+![CIRCUITO](https://github.com/Katherine01-Arevalo/Laboratorio-6/blob/main/img/CIRCUITO6.PNG)
+
 **4.LISTA DE COMPONENTES**
 
 **5.EXPLICACIÓN**
 
-**6.APORTACIONES**
+**6.APORTACIONES
+
+ CIRCUITO DE CORRIENTE ALTERNA (VOLTAJE EN RL)
+
+![circuitosimulacion](https://github.com/Katherine01-Arevalo/Laboratorio-6/blob/main/img/circuitosim.PNG)
+
+OSILOSCOPIO
+
+![OSILOSCOPIO](https://github.com/Katherine01-Arevalo/Laboratorio-6/blob/main/img/osiloscopio1.PNG)
+
+TABLAS
+
+![TABLA](https://github.com/Katherine01-Arevalo/Laboratorio-6/blob/main/img/TABLA.PNG)
+
+![ERROR](https://github.com/Katherine01-Arevalo/Laboratorio-6/blob/main/img/ERROR.PNG)
 
 **7.MANUAL DE USUARIO**
 
 **8.PRERREQUISITOS**
+
 
 **9.CONCLUSIONES**
 
