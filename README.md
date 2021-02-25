@@ -42,6 +42,7 @@ TABLAS
 ![ERROR](https://github.com/Katherine01-Arevalo/Laboratorio-6/blob/main/img/ERROR.PNG)
 
 PREGUNTAS 
+
 (1) ¿Cuántas divisiones por cuadro abarca la amplitud pico de la señal de salida?
 
 3.45
