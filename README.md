@@ -4,6 +4,8 @@
 
 **2.MARCO TEÓRICO**
 
+![onda_2](https://github.com/Katherine01-Arevalo/Laboratorio-6/blob/main/img/onda_2.png)
+
 **3.DIAGRAMAS**
 
 **4.LISTA DE COMPONENTES**
