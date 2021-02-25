@@ -16,15 +16,22 @@ Específicos:
 
 **4.LISTA DE COMPONENTES**
 
-**5.EXPLICACIÓN**
+![ELEMENTOS](https://github.com/Katherine01-Arevalo/Laboratorio-6/blob/main/img/ELEMENTOS.PNG)
 
-**6.APORTACIONES
+**5.EXPLICACIÓN
+
+PRACTICA 
+
+Se inicia  con el  armado del circuito para dicho casa se hará uso de un simulador conocido como proteus , a continuación  para el circuito se necesita de dos resistencias las cuales se encuentran en seria a una fuente de corriente alterna para esta práctica se medirá el valor del voltaje en RL mediante el uso de un voltímetro para corriente alterna y un osciloscopio lo cual se ubica en forma paralela en la resistencia RL teniendo como resultado que en el voltímetro se obtiene un dato de 4.86V mientras que en el osciloscopio se obtiene un valor de 4.87V. No es  el mismo voltaje ya que el voltímetro mide el voltaje efectivo también conocido como  raíz cuadrada de la media de los cuadrados, mientras que el osciloscopio mide el valor pico  del voltaje.
+
+
+**6.APORTACIONES**
 
  CIRCUITO DE CORRIENTE ALTERNA (VOLTAJE EN RL)
 
 ![circuitosimulacion](https://github.com/Katherine01-Arevalo/Laboratorio-6/blob/main/img/circuitosim.PNG)
 
-OSILOSCOPIO
+OSCILOSCOPIO
 
 ![OSILOSCOPIO](https://github.com/Katherine01-Arevalo/Laboratorio-6/blob/main/img/osiloscopio1.PNG)
 
