@@ -81,9 +81,16 @@ Es distinto ya que el valor que mide el voltímetro para corriente alterna  mues
 **7.MANUAL DE USUARIO**
 
 **8.PRERREQUISITOS**
+-Tener en cuenta el  voltímetro que se va a usar para el simulador en el cual se realizó  la práctica consta de un voltímetro de corriente directa y corriente alterna.
 
+Revisar que  el voltímetro y el osciloscopio se encuentren en paralelo en el resistor a estudiar .
 
 **9.CONCLUSIONES**
+
+En fin, cuando se habla de corriente alterna tenemos conocimiento que se va a estudiar una onda  senoidal la cual cuenta de algunas características como su voltaje o corriente en un su valor pico , el valor pico a pico que es el doble del valor pico ya sea del voltaje o corriente , su valor promedio y su valor rms(valor efectivo),en una onda se observa un periodo, consta de una amplitud y un ciclo.
+Mediante la parte  práctica se llegó a estudiar  a una onda senoidal y se llegó a la conclusión que si  se mide el voltaje de un resistor en el circuito mediante un voltímetro y un osciloscopio  arroja diferentes datos los cuales están correctos  la única diferencia que se debe tener presente es que un voltímetro  genera la medición de voltaje en rms mientras que un osciloscopio genera el valor pico  de voltaje que tiene la carga a estudiar.
+
+
 
 **10.BIBLIOGRAFÍA**
 
