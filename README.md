@@ -4,7 +4,14 @@
 
 Generales:
 
+- Analizar la onda senoidal para compilar información e identificar sus características.
+
 Específicos:
+
+- Emplear un circuito para generar una onda sinusoidal.
+- Aplicar la teoría para reconocer las diferentes características y componentes de una onda.
+- Basado en la teoría, interpretar el comportamiento de la onda y calcular sus componentes. 
+
 
 **2.MARCO TEÓRICO**
 
