@@ -52,7 +52,7 @@ PREGUNTAS
 
 (1) ¿Cuántas divisiones por cuadro abarca la amplitud pico de la señal de salida?
 
-3.45
+6.85 aproximadamente
 
 (2) ¿En qué valor está posicionada la perilla VOLTS/DIV?
 
