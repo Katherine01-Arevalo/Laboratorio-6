@@ -60,7 +60,7 @@ PREGUNTAS
 
 (3) ¿Cuántas divisiones por cuadro abarca un ciclo completo de la señal de salida?
 
-Aproximadamente 2
+Aproximadamente  4
 
 (4) ¿En qué valor está posicionada la perilla TIME/DIV?   
 
