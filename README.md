@@ -25,7 +25,7 @@ Específicos:
 
 ![ELEMENTOS](https://github.com/Katherine01-Arevalo/Laboratorio-6/blob/main/img/ELEMENTOS.PNG)
 
-**5.EXPLICACIÓN
+**5.EXPLICACIÓN**
 
 PRACTICA 
 
@@ -60,6 +60,8 @@ PREGUNTAS
 
 (3) ¿Cuántas divisiones por cuadro abarca un ciclo completo de la señal de salida?
 
+Aproximadamente 2
+
 (4) ¿En qué valor está posicionada la perilla TIME/DIV?   
 
 0.1ms
@@ -88,6 +90,7 @@ Es distinto ya que el valor que mide el voltímetro para corriente alterna  mues
 **7.MANUAL DE USUARIO**
 
 **8.PRERREQUISITOS**
+
 -Tener en cuenta el  voltímetro que se va a usar para el simulador en el cual se realizó  la práctica consta de un voltímetro de corriente directa y corriente alterna.
 
 Revisar que  el voltímetro y el osciloscopio se encuentren en paralelo en el resistor a estudiar .
